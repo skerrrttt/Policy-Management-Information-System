@@ -1,0 +1,53 @@
+{
+  "menu": [
+    {
+      "url": "/submit-proposal",
+      "name": "Submit Proposal",
+      "icon": "menu-icon tf-icons bx bx-send",
+      "slug": "submit-proposal",
+      "roles": [
+        "academic_council_membership",
+        "admin_council_membership"
+      ]
+    },
+    {
+      "url": "/proposal-tracker",
+      "name": "Proposal Tracker",
+      "icon": "menu-icon tf-icons bx bx-line-chart",
+      "slug": "proposal-tracker",
+      "roles": [
+        "academic_council_membership",
+        "admin_council_membership"
+      ]
+    },
+    {
+      "url": "/logs",
+      "name": "Logs",
+      "icon": "menu-icon tf-icons bx bx-clipboard",
+      "slug": "logs",
+      "roles": [
+        "academic_council_membership",
+        "admin_council_membership"
+      ]
+    },
+    {
+      "url": "/join-admin/agenda",
+      "name": "Agenda",
+      "icon": "menu-icon tf-icons bx bxs-notepad",
+      "slug": "agenda",
+      "roles": [
+        "academic_council_membership",
+        "admin_council_membership"
+      ]
+    },
+    {
+      "url": "/localsec-meetings",
+      "name": "Meetings",
+      "icon": "menu-icon tf-icons bx bx-calendar-event",
+      "slug": "localsec-meetings",
+      "roles": [
+        "local_secretary"
+      ]
+    }
+  ]
+}
